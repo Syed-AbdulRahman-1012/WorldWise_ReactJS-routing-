@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "0481",
+      "cityName": "Shorkot",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-10-03T12:19:59.324Z",
+      "notes": "Amazing Trip",
+      "position": {
+        "lat": "31.07444808710461",
+        "lng": "72.37380512016131"
+      }
+    },
+    {
+      "id": "c9b6",
+      "cityName": "Khanpur",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-10-03T12:20:19.468Z",
+      "notes": "",
+      "position": {
+        "lat": "33.836820924793756",
+        "lng": "73.0337113574635"
+      }
+    },
+    {
+      "id": "d63e",
+      "cityName": "Gizab",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2024-10-03T12:20:32.752Z",
+      "notes": "",
+      "position": {
+        "lat": "33.50802303548639",
+        "lng": "66.31347656250001"
+      }
+    },
+    {
+      "id": "52d9",
+      "cityName": "Avanos",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-10-03T12:23:17.656Z",
+      "notes": "",
+      "position": {
+        "lat": "38.92799128555686",
+        "lng": "34.95849609375001"
+      }
+    }
+  ]
+}
